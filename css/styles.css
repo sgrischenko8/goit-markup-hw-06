@@ -359,6 +359,7 @@ body {
 
 .form-input:focus {
   border: 1px solid var(--primary-brand-cl);
+  outline: none;
 }
 
 .form-icon {
